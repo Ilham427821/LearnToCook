@@ -44,11 +44,11 @@ Memberikan media pembelajaran yang interaktif dan menarik bagi siswa jurusan Tat
 
 
 👨‍🏫 Tentang Pengembang
-Nama: Muhamad Syafarudin Ilham
-Program Studi: D-III Teknik Informatika
-Institusi: Politeknik Negeri Pontianak
+- Nama: Muhamad Syafarudin Ilham
+- Program Studi: D-III Teknik Informatika
+- Institusi: Politeknik Negeri Pontianak
 
 🙏 Ucapan Terima Kasih
-Dosen Pembimbing
-Teman-teman satu jurusan
-SMK Negeri 5 Pontianak untuk referensi kurikulum
+1. Dosen Pembimbing
+2. Teman-teman satu jurusan
+3. SMK Negeri 5 Pontianak untuk referensi kurikulum
